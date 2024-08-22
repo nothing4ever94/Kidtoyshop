@@ -1,0 +1,8 @@
+---
+title:  "I scream"
+subtitle: "But do you scream?"
+author: "B.A"
+avatar: "img/authors/wferr.png"
+image: "img/e.jpg"
+date:   2024-08-22
+---
