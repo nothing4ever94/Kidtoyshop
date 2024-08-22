@@ -1,0 +1,8 @@
+---
+title:  "Watches"
+subtitle: "The Bigger the better?"
+author: "B.A"
+avatar: "img/authors/wferr.png"
+image: "img/c.jpg"
+date:   
+---
