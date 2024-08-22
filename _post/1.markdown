@@ -1,0 +1,8 @@
+---
+title:  "Planes are cool!"
+subtitle: "The Fly!"
+author: "B.A"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+date: 2024-08-22
+---
