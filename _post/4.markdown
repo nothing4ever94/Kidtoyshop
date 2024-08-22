@@ -4,5 +4,5 @@ subtitle: "Only lights from space"
 author: "B.A"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
-date:   
+date:   2024-08-22
 ---
