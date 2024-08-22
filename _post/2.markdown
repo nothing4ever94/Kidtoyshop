@@ -4,5 +4,5 @@ subtitle: "A Beautiful shot during the night."
 author: "B.A"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
-date:
+date:  2024-08-22
 ---
