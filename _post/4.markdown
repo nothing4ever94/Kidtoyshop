@@ -1,0 +1,8 @@
+---
+title:  "Absense of light"
+subtitle: "Only lights from space"
+author: "B.A"
+avatar: "img/authors/wferr.png"
+image: "img/d.jpg"
+date:   
+---
